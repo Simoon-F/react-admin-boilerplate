@@ -12,13 +12,13 @@
 Install project dependencies
 
 ```
-yarn install
+pnpm install
 ```
 
 Launch the app, it will become available at [http://localhost:3000](http://localhost:3000/)
 
 ```
-yarn dev
+pnpm dev
 ```
 
 ## 项目规范
